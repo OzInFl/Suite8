@@ -1,0 +1,50 @@
+Fri Nov  5 18:00:28 2021 [57282][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Fri Nov  5 18:00:28 2021 [57282][1][FATAL] Email address save error
+Fri Nov  5 18:00:30 2021 [57282][1][FATAL] User update error: Temp User is not retrieved at ID seed_jim_id, boolean given
+Fri Nov  5 18:00:30 2021 [57282][1][FATAL] Email address save error
+Fri Nov  5 18:00:30 2021 [57282][1][FATAL] User update error: Temp User is not retrieved at ID seed_sarah_id, boolean given
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] Email address save error
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] User update error: Temp User is not retrieved at ID seed_sally_id, boolean given
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] Email address save error
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] User update error: Temp User is not retrieved at ID seed_max_id, boolean given
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] Email address save error
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] User update error: Temp User is not retrieved at ID seed_will_id, boolean given
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] Email address save error
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] User update error: Temp User is not retrieved at ID seed_chris_id, boolean given
+Fri Nov  5 18:00:31 2021 [57282][1][FATAL] Email address save error
+Tue Nov  9 15:04:47 2021 [33874][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 15:06:52 2021 [33932][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 15:37:47 2021 [628][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 15:37:49 2021 [628][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 15:37:50 2021 [628][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 15:41:14 2021 [631][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 15:41:17 2021 [631][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 16:03:55 2021 [627][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 16:04:03 2021 [628][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Tue Nov  9 22:46:40 2021 [634][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Wed Nov 10 01:11:33 2021 [4383][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Thu Nov 11 03:17:56 2021 [12914][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Thu Nov 11 10:57:11 2021 [12914][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Fri Nov 12 17:32:00 2021 [23422][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Fri Nov 12 17:32:29 2021 [19050][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Fri Nov 12 17:52:16 2021 [22510][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Fri Nov 12 17:53:56 2021 [23421][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Fri Nov 12 17:53:56 2021 [23421][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Fri Nov 12 17:57:45 2021 [19068][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost'
+Fri Nov 12 18:36:11 2021 [1409][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 18:37:53 2021 [1420][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 18:45:59 2021 [1464][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 18:57:24 2021 [1417][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 19:51:16 2021 [1578][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 19:51:26 2021 [1485][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 19:51:27 2021 [1485][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 19:51:48 2021 [1578][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Fri Nov 12 19:58:38 2021 [1808][1][FATAL] Error: File [modules/SavedSearch/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
+Sat Nov 13 21:53:56 2021 [4356][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header
+Sun Nov 14 21:53:59 2021 [8644][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header
+Mon Nov 22 04:08:31 2021 [56113][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header
+Wed Dec  1 03:44:26 2021 [118145][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header
+Wed Dec  1 03:44:26 2021 [118040][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header
+Sun Dec 12 18:36:13 2021 [197053][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header
+Sun Dec 12 18:37:48 2021 [197052][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header
+Sun Dec 12 18:38:18 2021 [197065][-none-][FATAL] [ERROR] [ResourceServer]  Code: 9 Message: The resource owner or authorization server denied the request. ErrorType: access_denied Hint: Missing "Authorization" header

@@ -1,0 +1,3 @@
+<?php //route_name_5dbe6b767bfe5c27957d62a9a84484d9
+
+return [PHP_INT_MAX, 'api_mod_strings_get_item'];

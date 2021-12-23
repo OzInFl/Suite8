@@ -1,0 +1,27 @@
+parameters:
+  record.fields.grouped_fields_type_map:
+    fullname:
+      groupFields:
+        - salutation
+        - first_name
+        - last_name
+      layout:
+        - salutation
+        - first_name
+        - last_name
+      display: inline
+      showLabel:
+        edit: ['first_name','last_name']
+        filter: ['*']
+    address:
+      layout:
+        - street
+        - postalcode
+        - city
+        - state
+        - country
+      display: vertical
+      showLabel:
+        edit: ['*']
+        filter: ['*']
+

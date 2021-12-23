@@ -1,0 +1,3 @@
+<?php //route_name_4885243c03c0da75d15436acafdba3a1
+
+return [PHP_INT_MAX, 'api_navbars_get_item'];

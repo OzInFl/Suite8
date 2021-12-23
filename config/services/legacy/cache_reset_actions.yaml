@@ -1,0 +1,6 @@
+parameters:
+  legacy.cache_reset_actions:
+    users:
+      - edit
+    administration:
+      - repair

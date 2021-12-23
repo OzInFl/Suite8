@@ -1,0 +1,3 @@
+<?php //route_name_d08968686a4b4a13eff44dd5a2e506cf
+
+return [PHP_INT_MAX, 'api_theme_images_get_item'];
